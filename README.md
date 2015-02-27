@@ -1,0 +1,2 @@
+# vagrant-gazelle
+Vagrant Gazelle
